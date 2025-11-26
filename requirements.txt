@@ -1,0 +1,10 @@
+# Requirements for Tap Game Manager
+# Python 3.7+
+
+# Optional: For advanced tap simulation (uncomment if needed)
+# pyautogui==0.9.54
+# pywin32==306; sys_platform == 'win32'
+
+# Để cài đặt pyautogui (khuyến nghị):
+# pip install pyautogui
+
